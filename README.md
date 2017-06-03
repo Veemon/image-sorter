@@ -6,7 +6,8 @@ Don't worry we'll get you started sorting images in no time! Now, let's have a s
 *https://github.com/tody411/ColorHistogram*
 
 ## Installation
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+just add to path it's fine.
 
 ## Requisites  
 #### Opencv2
